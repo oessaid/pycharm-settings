@@ -1,0 +1,19 @@
+<application>
+  <component name="MaterialThemeConfig">
+    <option name="compactDropdowns" value="true" />
+    <option name="compactSidebar" value="true" />
+    <option name="isCompactMenus" value="true" />
+    <option name="isCompactStatusBar" value="true" />
+    <option name="isCompactTables" value="true" />
+    <option name="isContrastMode" value="true" />
+    <option name="isHighContrast" value="true" />
+    <option name="isWizardShown" value="true" />
+    <option name="pristineConfig" value="false" />
+    <option name="useMaterialFont2" value="true" />
+    <option name="settingsSelectedTab" value="6" />
+    <option name="accentColor" value="e57373" />
+    <option name="selectedTheme" value="GITHUB" />
+    <option name="userId" value="-488dd6ac:169699c3936:-8000" />
+    <option name="version" value="3.10.0" />
+  </component>
+</application>

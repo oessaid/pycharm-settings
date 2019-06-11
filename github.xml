@@ -1,0 +1,7 @@
+<application>
+  <component name="GithubAccounts">
+    <account id="936cb590-4ffc-4c47-a064-bec4d0ef8d2b" name="omar-essaid-ext">
+      <server useHttp="false" host="github.schibsted.io" />
+    </account>
+  </component>
+</application>
