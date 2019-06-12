@@ -6,7 +6,7 @@
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
-      <webServer id="3bdc9346-1146-4aeb-889f-70e598f5985e" name="oessaid@172.25.2.131:22" url="http:///">
+      <webServer id="1a6c5c02-3d2c-4503-a777-7d384a1910ef" name="oessaid@172.25.2.131:22" url="http:///">
         <fileTransfer host="172.25.2.131" port="22" privateKey="$USER_HOME$/.ssh/id_rsa" accessType="SFTP" keyPair="true">
           <option name="port" value="22" />
         </fileTransfer>
